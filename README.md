@@ -1,1 +1,1 @@
-# yandis-soundpad
+# landal_soundpad

@@ -66,56 +66,59 @@ h1 {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
 }
 
-.tecla_2099 {
-  background-image: url("../images/miguel\ ohara.gif");
-  background-size: 230%;
+.tecla_goku {
+  background-image: url("../images/goku.gif");
+  background-size:100%;
   background-repeat: no-repeat;
-  background-position: -5em;
+  background-position: 0em;
 }
 
-.tecla_atumalaca {
-  background-image: url("../images/atumalaca.gif")
+.tecla_chines {
+  background-image: url("../images/chines.gif");
+  background-size:100%;
 }
 
-.tecla_xandão {
-  background-image: url("../images/xandão.gif");
-  background-position: -5em;
+.tecla_dog {
+  background-image: url("../images/dog.gif");
+  background-size:100%;
+  background-position: 0em;
 }
 
-.tecla_flamengo {
-  background-image: url("../images/flamengo.gif");
-  background-position: 1em;
-  background-size: 70%;
+.tecla_a {
+  background-image: url("../images/a.gif");
+  background-position: -1em;
+  background-size: 150%;
   background-repeat: no-repeat;
 }
 
-.tecla_xaropinho {
-  background-image: url("../images/xaropinho.gif");
+.tecla_hihiha {
+  background-image: url("../images/hihiha.gif");
   background-size: 100%;
   background-repeat: no-repeat;
 }
 
-.tecla_kiko {
-  background-image: url("../images/kiko.gif");
+.tecla_hudson {
+  background-image: url("../images/hudson.gif");
+  background-size: 180%;
+  background-repeat: no-repeat;
+  background-position: -1em;
+}
+
+.tecla_kawasaki {
+  background-image: url("../images/kawasaki.gif");
   background-size: 140%;
   background-repeat: no-repeat;
 }
 
-.tecla_chapolin {
-  background-image: url("../images/chapolin.gif");
-  background-size: 140%;
-  background-repeat: no-repeat;
-}
-
-.tecla_naoquer {
-  background-image: url("../images/chaves.gif");
+.tecla_pepeino {
+  background-image: url("../images/pepeino.gif");
   background-size: 140%;
   background-repeat: no-repeat;
   background-position: -1.5em;
 }
 
-.tecla_fatos {
-  background-image: url("../images/fatos.gif");
+.tecla_rizz {
+  background-image: url("../images/rizz.gif");
   background-size: 180%;
   background-repeat: no-repeat;
   background-position: -3.5em;
